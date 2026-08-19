@@ -2,7 +2,9 @@
 
 # 박태원 · Taewon Park
 
-**Product Engineer** — 인프라부터 앱까지, 서비스 하나를 끝까지 만듭니다
+**Product Engineer**
+
+개발은 아이디어를 실현하는 가장 값싸고 빠른 도구 — 익숙한 기술보다, 지금 제품에 필요한 것을 고릅니다.
 
 <!-- TODO: 포트폴리오 사이트 실제 주소로 교체하세요 -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://one-more-coin.com)
@@ -12,13 +14,6 @@
 </div>
 
 ---
-
-### About
-
-- 암호화폐 자동매매 서비스를 **1인 개발**로 담당하며 인프라 · 백엔드 · 앱 · 웹 · 모니터링을 전부 구현하고 있습니다.
-- 병목은 추측하지 않고 **계측해서 분해합니다.** 백테스트 엔진을 프로파일링 기반으로 재설계해 요청당 32초를 6초까지 줄였습니다.
-- 조용히 멈추는 장애가 싫어서 Prometheus · Grafana · Loki 관측 스택을 **직접 호스팅해 구축**했습니다.
-- 기계공학 → 풀스택 → 프로덕트 엔지니어. 도메인이 바뀌어도 "재현 가능하게 만들고 계측한다"는 습관은 그대로입니다.
 
 ### Tech Stack
 
@@ -48,17 +43,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-### Projects
-
-| 프로젝트 | 한 줄 요약 | 스택 |
-| --- | --- | --- |
-| **[One-More-Coin](https://github.com/now-eat-krap/OMC)** · [🔗 데모](https://one-more-coin.com) | 지표 조합 전략을 브라우저에서 바로 백테스트. 프로파일링 기반 엔진 재설계로 **요청당 32초 → 6.4초** | React · FastAPI · Celery · Redis · VectorBT · Numba |
-| **AddAlpha** *(회사 · 비공개)* | 암호화폐 자동매매 서비스 **1인 개발**. 인프라 · 백엔드 · Flutter 앱 · 관리자 웹 · 관측까지 전 영역 | FastAPI · PostgreSQL · Flutter · Next.js · Docker |
-| **자체 호스팅 관측 시스템** *(회사 · 비공개)* | 조용히 멈추는 장애를 **자동 감지 체계로 전환**한 메트릭 · 로그 · 알림 파이프라인 | Prometheus · Grafana · Loki · Alloy |
-| **[See You Letter](https://github.com/SeeY0uLetter/SeeYouLetter)** | AI 톤 보정 · 음성 복제 · NFT 저장 기반 디지털 타임캡슐 — *SSAFY 특화 프로젝트 우수상* | Spring Boot · Kotlin · MySQL · MinIO · IPFS |
-| **[APILog](https://github.com/APIL0g/APILog)** | GA · Clarity를 대체하는 **직접 호스팅형** 오픈소스 웹 분석 플랫폼 | React · FastAPI · InfluxDB · Docker |
-| **[Portfolio](https://github.com/now-eat-krap/porfolio-site)** | 넷플릭스 UI 컨셉의 개인 포트폴리오 사이트 | Next.js · TypeScript · Tailwind · shadcn/ui |
 
 ### Stats
 
